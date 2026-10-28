@@ -1,2 +1,5 @@
 streamlit>=1.40,<2
-
+fastapi
+pydantic
+python-dotenv
+requests
